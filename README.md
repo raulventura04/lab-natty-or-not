@@ -20,22 +20,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Título do Projeto: Extremely Aesthetic 😉
+📒 Descrição
+O projeto "Extremely Aesthetic" utiliza inteligência artificial para personalizar e otimizar programas de treinamento de musculação, visando resultados estéticos significativos e personalizados para cada usuário.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+🤖 Tecnologias Utilizadas
+Modelos Generativos de IA: Utilizados para criar programas de treinamento personalizados com base em objetivos específicos de estética muscular.
+Redes Neurais Convolucionais (CNN): Para análise e reconhecimento de padrões em imagens de progresso físico.
+Aplicativos de Fitness: Integrados para coletar dados de desempenho e ajustar os programas de treinamento em tempo real.
+🧐 Processo de Criação
+Coleta de Dados: Inicialmente, coletamos dados dos usuários sobre suas metas estéticas, histórico de treinamento e preferências.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Modelagem de Dados: Utilizamos modelos generativos de IA para criar planos de treinamento personalizados. Isso inclui seleção de exercícios, volume, intensidade e frequência adequados para alcançar os objetivos estéticos desejados.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Implementação de Redes Neurais: Utilizamos redes neurais convolucionais para analisar imagens de progresso físico dos usuários. Isso nos permite ajustar os programas de treinamento com base na evolução real do corpo.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Feedback Contínuo: Os usuários fornecem feedback contínuo sobre a eficácia dos programas, permitindo ajustes adicionais com o tempo.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+🚀 Resultados
+Personalização Avançada: Os programas de treinamento são altamente personalizados, levando em conta as preferências e objetivos estéticos individuais.
+Melhoria Contínua: Com o tempo, os programas se adaptam e melhoram com base no feedback e na análise contínua dos resultados.
+Resultados Visíveis: Os usuários experimentam resultados estéticos visíveis e alinhados com suas expectativas.
+💭 Reflexão (Opcional)
+Criar algo 'natty' (natural) com IA apresenta desafios interessantes, especialmente na personalização e na adaptação contínua dos programas de treinamento. A combinação de IA com a ciência do exercício pode revolucionar a forma como as pessoas atingem seus objetivos estéticos de forma eficaz e sustentável.
+
+Espero que este esboço seja útil para o seu projeto! Se precisar de mais detalhes ou ajustes, estou à disposição para ajudar.
 ```
 
 ### Exemplos e Insigths
